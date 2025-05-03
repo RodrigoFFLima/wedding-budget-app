@@ -1,0 +1,7 @@
+export function AddTransactionButton() {
+  return (
+    <button className="fixed bottom-6 right-6 bg-primary text-white p-4 rounded-full shadow-lg text-xl">
+      +
+    </button>
+  );
+}
